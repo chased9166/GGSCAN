@@ -43,7 +43,3 @@ python3
 ![Image text](https://raw.githubusercontent.com/xiaoheiwo/GGSCAN/master/img/3.jpg)
 
 
-## 联系方式
-有问题可以提交issues。
-
-微信：zanyryy：
